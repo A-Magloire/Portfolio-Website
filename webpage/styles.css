@@ -1,0 +1,81 @@
+body {
+
+   background-image: linear-gradient(to right, #DDEFBB, #FFEEEE); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* background: blue; */
+}
+
+#dark-mode {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#nav-bar {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.nav-link {
+    color: white;
+}
+
+#title {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 200px;
+
+}
+
+.title-caption{
+    margin: flex;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#title-caption{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+p {
+    margin: flex;
+}
+
+.images {
+    margin: 5rem;
+}
+
+.prompts {
+    margin: auto;
+    width: 30rem;
+    text-align: center;
+    table-layout: fixed;
+}
+
+/* Career Section */
+
+#career-page {
+    background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+    color: white;
+}
+
+#career-title {
+    font-size: 80px;
+}
+
+#career-title-caption {
+    font-size: 20px
+}
+
+#career-subtitle {
+
+}
